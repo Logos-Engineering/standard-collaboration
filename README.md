@@ -3,8 +3,8 @@
 ## Cara Berkontribusi
 
 - Fork Repository ke dalam repo pribadi
-  <img src="./fork.png" width="500px" alt="gambar fork">
-  <img src="./forked.png" width="500px" alt="gambar selesai forked">
+  <img src="./fork.png" width="500px" alt="gambar daftar issue">
+  <img src="./forked.png" width="500px" alt="gambar daftar issue">
 - Ambil Issue yang sedang aktif, kemudian komentari "Dalam Pengerjaan - Username"
   <img src="./Issue.png" width="500px" alt="gambar daftar issue">
   <img src="./komentar.png" width="500px" alt="gambar daftar issue">
